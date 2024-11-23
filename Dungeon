@@ -1,3 +1,1 @@
-getgenv().AutoMenu = true -- If This Is Set To True it will Do The Work in Menu
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hen56s2/Holder/refs/heads/main/Pop"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/Sol/refs/heads/main/DQ"))()
